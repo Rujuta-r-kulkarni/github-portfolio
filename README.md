@@ -10,8 +10,7 @@ Here, you'll find a variety of my work showcasing my skills in content writing. 
 | Skill                        | Description                                                                                       |
 |------------------------------|---------------------------------------------------------------------------------------------------|
 | **Technical Content Writing**| Leveraging my technical background to produce well-researched, accurate, and engaging content on complex IT topics. |
-| **SEO Optimization**         | Crafting informative and optimized content for search engines to increase visibility and traffic. |
-| **Diverse Content Formats**  | Proficient in authoring blogs, articles, white papers, case studies, and social media copies. |
+| **Diverse Content Formats**  | Proficient in authoring blogs, articles, white papers, technical documentation, case studies, and social media copies. |
 | **Graphic Design** | Creating visually appealing graphics using tools like Canva to complement and enhance the written content. |
 | **Content Management Systems** | Experienced in using WordPress and other CMS platforms to manage and publish content efficiently. |
 | **Proofreading and Editing** | Strong skills in proofreading and editing to ensure the highest quality of content. |
@@ -47,7 +46,12 @@ Here, you'll find a variety of my work showcasing my skills in content writing. 
 - [Edited Documents](https://drive.google.com/drive/folders/19vx5KiZlFowytGFn_MlMgsJOFN3hAz0Z?usp=sharing)
 
 #### Graphics
+
 - [Sample Graphics](https://rujutarkulkarni.wordpress.com/copy-ads/)
+
+#### Installation Guides
+
+- [Facebook App Installation Guide for Android _ Quick and Easy Steps.docx](https://github.com/user-attachments/files/17048195/Facebook.App.Installation.Guide.for.Android._.Quick.and.Easy.Steps.docx)
 
 <br>
 
