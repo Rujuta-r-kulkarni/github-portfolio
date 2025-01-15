@@ -43,7 +43,7 @@ Here, you'll find a variety of my work showcasing my skills in content writing. 
   
 #### Product Documentation Sample - Working on Updating the previous document
 
-- [Documentor: A Guide to Creating and Managing Online Documentation ]
+- [Documentor: A Guide to Creating and Managing Online Documentation](https://github.com/Rujuta-r-kulkarni/github-portfolio/blob/d424f80ad173a2598b09850899eeeba05a9e0eff/Product%20Documentation_Sample.docx)
 
 #### Proofreading and Editing Samples
 
