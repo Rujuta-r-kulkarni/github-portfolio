@@ -41,8 +41,9 @@ Here, you'll find a variety of my work showcasing my skills in content writing. 
 
 - [Short-form Case Studies](https://www.valueaddsofttech.com/case-studies)
   
-#### Product Documentation Sample - Updated one
-- []
+#### Product Documentation Sample - Working on Updating the previous document
+
+- [Documentor: A Guide to Creating and Managing Online Documentation ]
 
 #### Proofreading and Editing Samples
 
