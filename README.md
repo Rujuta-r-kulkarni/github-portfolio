@@ -21,8 +21,8 @@ Here, you'll find a variety of my work showcasing my skills in content writing. 
 
 | Skill                      | Description                                                                                      |
 |----------------------------|--------------------------------------------------------------------------------------------------|
-| **Programming Languages**  | Familiarity with various programming languages due to my background in Computer Engineering.      |
-| **Content Tools**          | Expertise in using Google Suite, Microsoft Office Suite, Grammarly, WordPress, Trello, Jasper AI, and others for content creation and management.   |
+| **Programming Languages**  | Familiarity with various programming languages due to my background in computer engineering.      |
+| **Content Tools**          | Expertise using Google Suite, Microsoft Office Suite, Grammarly, WordPress, Trello, Jasper AI, and others for content creation and management.   |
 | **Research**               | Thorough research skills to gather and present accurate information.                             |
 
 <br>
@@ -40,6 +40,9 @@ Here, you'll find a variety of my work showcasing my skills in content writing. 
 #### Case Studies
 
 - [Short-form Case Studies](https://www.valueaddsofttech.com/case-studies)
+  
+#### Product Documentation Sample - Updated one
+- []
 
 #### Proofreading and Editing Samples
 
